@@ -1,0 +1,8 @@
+# AAI Locales [Addon]
+# XMKTP(Xagros's Mods Korean Translation Project)
+localization mod for AAI Industries mods for Factorio.
+
+Thank you for downloaded this mod. (By.Xagros)
+
+1.0.0 (2017-12-04)
+- Released this mod (Korean(100%))
