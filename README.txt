@@ -1,7 +1,7 @@
 # AAI Locales [Addon]
 # XMKTP(Xagros's Mods Korean Translation Project)
 =============
-localization mod for AAI mods for Factorio. Feel free to contribute on github!
+localization mod for AAI mods for Factorio. Feel free to contribute on [github](https://github.com/GimoXagros/aai-locales)!
 If you can help me translate in another language, please contact me. Discussion and E-mail
 -------------
 팩토리오 모드 한글화 프로젝트입니다. 검수 및 번역 작업에 이상이 있을 시 쓰레드나 이메일로 연락 바랍니다.
