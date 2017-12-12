@@ -7,7 +7,7 @@
   "homepage": "http://tyrantk.tistory.com/",
   "factorio_version": "0.16",
   "date": "2017-12-13",
-  "description": "Adds translations for AAI mods.(Locales list : ko) If you can help me translate in another language, please contact me. Discussion and E-mail.",
+  "description": "Adds translations for AAI mods.(Locales list : en, it, ko, pt-BR, zh-CN) If you can help me translate in another language, please contact me. Discussion and E-mail.",
   "dependencies": ["base",  
 					"? aai-industry >= 0.1.12", 
 					"? aai-programmable-structures >= 0.3.8", 
