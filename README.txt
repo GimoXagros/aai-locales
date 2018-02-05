@@ -16,7 +16,8 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 >aspd199 (简体中文)
 gamestrust (Italiano)
 maurojunior2011 (Português brasileiro)
-
+MrMirmur (русский)
+Sharaj (русский)
 *****
 
 #Translations list
@@ -25,6 +26,7 @@ Italiano
 한국어
 Português
 Português brasileiro
+русский
 
 *****
 
