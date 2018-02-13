@@ -16,3 +16,7 @@ Thank you for downloaded this mod. (By.Xagros)
 1.1.1 (2018-02-05)
 - Fixed to russia locales loading bug
 - Added translation of an unknown variable.
+
+1.1.2 (2018-02-13)
+- Revised Korean translation
+- Update to translation (简体中文(95%), le français(45%), Italiano(0%), 한국어(100%), Português(0%), Português brasileiro(0%), русский(100%))
