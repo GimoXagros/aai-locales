@@ -14,14 +14,17 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 
 #Thanks to the contributers
 >aspd199 (简体中文)
+mumu1000 (le français)
 gamestrust (Italiano)
 maurojunior2011 (Português brasileiro)
+berkut2123 (русский)
 MrMirmur (русский)
 Sharaj (русский)
 *****
 
 #Translations list
 >简体中文
+le français
 Italiano
 한국어
 Português

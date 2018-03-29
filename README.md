@@ -17,6 +17,7 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 mumu1000 (le français)
 gamestrust (Italiano)
 maurojunior2011 (Português brasileiro)
+berkut2123 (русский)
 MrMirmur (русский)
 Sharaj (русский)
 *****
