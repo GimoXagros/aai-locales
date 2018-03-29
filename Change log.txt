@@ -23,3 +23,6 @@ Thank you for downloaded this mod. (By.Xagros)
 
 1.1.3 (2018-02-13)
 - Fixed Locales algorithm
+
+1.1.5 (2018-03-29)
+- Update to translation (简体中文(95%), le français(45%), Italiano(0%), 한국어(100%), Português(0%), Português brasileiro(0%), русский(100%))
