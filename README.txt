@@ -46,4 +46,3 @@ Português brasileiro
 [AAI Vehicles: Miner](https://mods.factorio.com/mods/Earendel/aai-vehicles-miner)
 [AAI Vehicles: Warden](https://mods.factorio.com/mods/Earendel/aai-vehicles-warden)
 [AAI Zones](https://mods.factorio.com/mods/Earendel/aai-zones)
-[Concrete and Stone](https://mods.factorio.com/mods/Earendel/concrete-and-stone)
