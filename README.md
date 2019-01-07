@@ -20,6 +20,7 @@ maurojunior2011 (Português brasileiro)
 berkut2123 (русский)
 MrMirmur (русский)
 Sharaj (русский)
+badway (русский)
 *****
 
 #Translations list

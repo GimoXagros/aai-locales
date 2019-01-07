@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 07. 01. 2019
+  русский:
+    - Обновленная AAI Industry (by badway)
+    - Обновленная AAI Programmable Structures (by badway)
+    - Обновленная AAI Programmable Vehicles (by badway)
+    - Обновленная AAI Signals (by badway)
+    - Обновленная AAI Vehicles: Chaingunner (by badway)
+    - Обновленная AAI Vehicles: Hauler (by badway)
+    - Обновленная AAI Vehicles: Miner (by badway)
+---------------------------------------------------------------------------------------------------
 Version: 1.1.10
 Date: 04. 01. 2019
   한국어:
